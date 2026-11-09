@@ -17,6 +17,13 @@ __pycache__/
 .venv/
 venv/
 
+# Node
+node_modules/
+.vitepress/cache/
+.vitepress/dist/
+docs/.vitepress/cache/
+docs/.vitepress/dist/
+
 # 构建产物
 build/
 dist/

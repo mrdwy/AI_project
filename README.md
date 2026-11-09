@@ -2,6 +2,8 @@
 
 > 工欲善其事，必先利其器。后 AI 时代，人是整条链路里最慢的一环——把重复劳动交给工具，把人挪到看结论的位置。
 
+📖 **在线阅读**：https://mrdwy.github.io/AI_project/（GitHub Pages，推 main 自动部署）
+
 这是一套写给嵌入式工程师的实战教程，主题不是「怎么用 AI 写代码」，而是**怎么给 AI 长出手和脚**，让它能把写代码、烧录、观测、判定整条调试链路闭环。
 
 ## 核心思想
@@ -45,6 +47,14 @@
 - 主平台：STM32F103（概念）→ ESP32（AI 与工程实战）
 - 工具链：Keil MDK / VSCode + ESP-IDF / GitHub Copilot
 - 观测：万用表、逻辑分析仪、示波器、串口、JFlash/J-Link
+
+## 本地预览
+
+```bash
+npm install
+npm run dev     # 本地开发 http://localhost:5173
+npm run build   # 构建静态站到 docs/.vitepress/dist
+```
 
 ## 参与
 
