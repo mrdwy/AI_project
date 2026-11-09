@@ -62,4 +62,9 @@ npm run build   # 构建静态站到 docs/.vitepress/dist
 
 ## License
 
-待定。
+双重许可，见 [LICENSE](LICENSE)：
+
+- **内容**（文章、讲义、图示）：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 署名、非商业、相同方式共享
+- **代码**（示例、脚本、配置）：[MIT](LICENSE-MIT)
+
+商业使用请联系作者取得单独授权。

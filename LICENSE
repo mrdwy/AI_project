@@ -1,0 +1,43 @@
+AI 时代嵌入式开发教程 · 双重许可 / Dual License
+
+本仓库采用双重许可：
+
+## 内容 / Content
+（包括但不限于 docs/ 下的文章、讲义、教学大纲、配图、图示、动画脚本）
+
+采用 知识共享 署名-非商业性使用-相同方式共享 4.0 国际许可协议
+(CC BY-NC-SA 4.0)。
+
+You are free to:
+  Share — copy and redistribute the material in any medium or format
+  Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+  Attribution   — You must give appropriate credit, provide a link to the
+                  license, and indicate if changes were made.
+  NonCommercial — You may not use the material for commercial purposes.
+  ShareAlike    — If you remix, transform, or build upon the material, you
+                  must distribute your contributions under the same license.
+
+完整协议 / Full license:
+  https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+## 代码 / Code
+（包括但不限于示例代码、脚本、配置文件、构建脚本、package.json、
+.github/workflows/ 下的工作流，以及文档内嵌的可运行代码片段）
+
+采用 MIT License。见 LICENSE-MIT 文件。
+
+---
+
+## 简要说明 / Summary
+
+| 部分 | 协议 | 能做什么 |
+|------|------|----------|
+| 文档、讲义、图 | CC BY-NC-SA 4.0 | 免费分享、改编，须署名、非商业、同协议继承 |
+| 代码、脚本 | MIT | 自由使用、修改、商用，保留版权声明即可 |
+
+**商业使用**：内容部分如需商业授权（例如培训机构付费课程、
+企业内训包、纸质出版），请通过 Issue 联系作者取得单独授权。
+
+Copyright (c) 2026 Mr_Dwy
